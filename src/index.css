@@ -1,0 +1,20 @@
+.cal-body {
+  height: 600px;
+  width: 350px;
+}
+.input-num {
+  font-size: 4rem;
+}
+.circle {
+  height: 60px;
+}
+button {
+  border: none;
+}
+h2 {
+  margin-bottom: .2rem;
+}
+h1 {
+  font-size: 5rem;
+}
+
