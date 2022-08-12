@@ -241,7 +241,9 @@ function App() {
           </button>
           <button
             type="button"
-            onClick="clickNumber('.')"
+            onClick={() => {
+              getNumber(".");
+            }}
             class="col-2 m-2 ms-4 circle rounded-circle bg-secondary"
           >
             <h2 class="text-white">.</h2>
